@@ -1,5 +1,5 @@
 # LP5DPBO2024C1
-
+/Saya [Ridho Alif Naufaldy] mengerjakan tugas praktikum 5 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin./
 
 # Fitur-fitur
 Menambahkan Data Mahasiswa Baru: Pengguna dapat menambahkan data mahasiswa baru dengan mengisi formulir yang tersedia dan menekan tombol "Add".
